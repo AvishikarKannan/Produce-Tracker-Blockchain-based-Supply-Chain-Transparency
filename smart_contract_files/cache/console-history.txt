@@ -1,0 +1,24 @@
+(await contract.totalProduces()).toString();
+);  "12.9716,77.5946"          // GPS coordinates (Bengaluru)  "Transported to Bengaluru",// Action  1,                         // Status = 1 (Distributor)  1,                         // Produce IDawait contract.addUpdate(
+const contract = await ethers.getContractAt("ProduceTracker", contractAddress, signer);
+const contractAddress = "0x574Bf70bd29eD62D26F37B0c5E13746938341982";
+const [signer] = await ethers.getSigners();
+);  "13.00883653854411,80.0035124112321"  100,  "Chennai",  "Mango",await contract.addProduce(
+const contract = await ethers.getContractAt("ProduceTracker", contractAddress, signer);
+// Get a handle to the contract
+const contractAddress = "0x574Bf70bd29eD62D26F37B0c5E13746938341982";
+// Replace with your deployed contract address
+const [signer] = await ethers.getSigners();
+// Load ethers
+console.log("Contract address:", contract.address)
+// should return details of Mango
+(await contract.getProduce(1));
+// should return "1"
+(await contract.totalProduces()).toString();
+await contract.addProduce("Mango", "Chennai", 100, "13.0827,80.2707");
+const contract = await ethers.getContractAt("ProduceTracker", contractAddress, signer);
+// Get a handle to the contract
+const contractAddress = "0x574Bf70bd29eD62D26F37B0c5E13746938341982";
+// Replace with your deployed contract address
+const [signer] = await ethers.getSigners();
+// Load ethers
