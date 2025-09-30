@@ -54,3 +54,55 @@ npx hardhat compile
 npx hardhat test
 npx hardhat run scripts/deploy.ts --network polygonAmoy
 ```
+
+### Running the Frontend 
+```
+cd frontend
+npm install
+npm start
+```
+Once started, the app will be available at [http://localhost:3000](http://localhost:3000).
+
+---
+
+## Workflow
+
+- Farmer registers produce → stored on-chain.  
+- Distributor/Retailer adds updates → location + status updated immutably.  
+- QR code is generated → consumer scans to verify history.  
+- Consumers view journey map and timestamps in the React app.  
+
+---
+
+## Business Model
+
+- **Subscription Fees:** Farmers, distributors, and retailers pay a nominal fee for using the system.  
+- **Transaction-based Charges:** Each blockchain update has a minimal transaction cost (gas).  
+- **Data Insights & Reporting Services:** Aggregated data can be offered to policymakers, cooperatives, and exporters.  
+- **Licensing:** Technology can be licensed to large supply chains.  
+- **White-label Partnerships:** Exporters and retailers can use customized versions for their operations.  
+
+---
+
+## Cost Structure (Estimates)
+
+### Smart Contract & Blockchain Costs
+- Deployment (Polygon Amoy → Polygon Mainnet): **₹4,000 – ₹8,000** per contract  
+- Gas Fees (Polygon): **₹0.15 – ₹0.80** per transaction  
+
+### Infrastructure & Hosting
+- React Frontend Hosting (Vercel/Netlify): **₹1,600 – ₹8,000/month**  
+- IPFS/Pinata for Metadata: **₹2,000 – ₹4,000/month**  
+- Map APIs / Indexing (The Graph, Infura, Alchemy): **₹8,000 – ₹24,000/month**  
+
+### Security & Maintenance
+- Regular monitoring & updates: **₹40,000 – ₹80,000/month**  
+
+---
+
+## Future Enhancements
+
+- NFT-based produce identity for digital certificates of origin.  
+- IPFS integration for QR code and metadata storage.  
+- Integration with The Graph for faster indexing and queries.  
+- Deployment on Polygon Mainnet for production use.  
