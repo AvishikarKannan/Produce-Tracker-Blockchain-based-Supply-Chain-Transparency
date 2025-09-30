@@ -32,11 +32,12 @@ It ensures transparency and traceability of farm produce from farmers to consume
 
 ## Repository Structure
 
+```plaintext
 .
 ├── contracts/        # Hardhat project with Solidity smart contracts
 ├── frontend/         # React web app for interacting with the smart contract
 └── README.md
-
+```
 
 ## Getting Started
 
@@ -52,3 +53,4 @@ npm install
 npx hardhat compile
 npx hardhat test
 npx hardhat run scripts/deploy.ts --network polygonAmoy
+```
