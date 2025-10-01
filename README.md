@@ -111,7 +111,7 @@ Once started, the app will be available at [http://localhost:3000](http://localh
 
 Thanks goes to these wonderful people:
 
-<a href="https://github.com/sejal2525">
-  <img src="https://avatars.githubusercontent.com/sejal2525" width="50px;" alt="Teammate 1"/>
+<a href="https://github.com/sejal-sai">
+  <img src="https://avatars.githubusercontent.com/sejal-sai" width="50px;" alt="Teammate 1"/>
 </a>
 
