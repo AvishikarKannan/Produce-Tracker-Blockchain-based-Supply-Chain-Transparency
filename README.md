@@ -115,3 +115,6 @@ Thanks goes to these wonderful people:
   <img src="https://avatars.githubusercontent.com/sejal-sai" width="50px;" alt="Teammate 1"/>
 </a>
 
+<a href="https://github.com/sejal2525">
+  <img src="https://avatars.githubusercontent.com/sejal2525" width="50px;" alt="Teammate 1"/>
+</a>
