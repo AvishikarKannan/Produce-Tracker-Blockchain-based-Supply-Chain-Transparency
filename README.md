@@ -105,4 +105,13 @@ Once started, the app will be available at [http://localhost:3000](http://localh
 - NFT-based produce identity for digital certificates of origin.  
 - IPFS integration for QR code and metadata storage.  
 - Integration with The Graph for faster indexing and queries.  
-- Deployment on Polygon Mainnet for production use.  
+- Deployment on Polygon Mainnet for production use.
+
+  ## Contributors ✨
+
+Thanks goes to these wonderful people:
+
+<a href="https://github.com/sejal2525">
+  <img src="https://avatars.githubusercontent.com/sejal2525" width="50px;" alt="Teammate 1"/>
+</a>
+
