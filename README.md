@@ -114,7 +114,9 @@ Thanks goes to these wonderful people:
 <a href="https://github.com/sejal-sai">
   <img src="https://avatars.githubusercontent.com/sejal-sai" width="50px;" alt="Teammate 1"/>
 </a>
-
 <a href="https://github.com/sejal2525">
-  <img src="https://avatars.githubusercontent.com/sejal2525" width="50px;" alt="Teammate 1"/>
+  <img src="https://avatars.githubusercontent.com/sejal2525" width="50px;" alt="Teammate 2"/>
+</a>
+<a href="https://github.com/Siddarthsenthilkumar">
+  <img src="https://avatars.githubusercontent.com/Siddarthsenthilkumar" width="50px;" alt="Teammate 3"/>
 </a>
