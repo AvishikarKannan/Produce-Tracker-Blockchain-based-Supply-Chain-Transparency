@@ -123,3 +123,6 @@ Thanks goes to these wonderful people:
 <a href="https://github.com/aishwaryaaramanathan">
   <img src="https://avatars.githubusercontent.com/aishwaryaaramanathan" width="50px;" alt="Teammate 4"/>
 </a>
+<a href="https://github.com/haaniya-m">
+  <img src="https://avatars.githubusercontent.com/haaniya-m" width="50px;" alt="Teammate 5"/>
+</a>
