@@ -120,3 +120,6 @@ Thanks goes to these wonderful people:
 <a href="https://github.com/Siddarthsenthilkumar">
   <img src="https://avatars.githubusercontent.com/Siddarthsenthilkumar" width="50px;" alt="Teammate 3"/>
 </a>
+<a href="https://github.com/aishwaryaaramanathan">
+  <img src="https://avatars.githubusercontent.com/aishwaryaaramanathan" width="50px;" alt="Teammate 4"/>
+</a>
