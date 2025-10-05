@@ -111,18 +111,18 @@ Once started, the app will be available at [http://localhost:3000](http://localh
 
 Thanks goes to these wonderful people:
 
-<a href="https://github.com/sejal-sai">
-  <img src="https://avatars.githubusercontent.com/sejal-sai" width="50px;" alt="Teammate 1"/>
-</a>
 <a href="https://github.com/sejal2525">
-  <img src="https://avatars.githubusercontent.com/sejal2525" width="50px;" alt="Teammate 2"/>
+  <img src="https://avatars.githubusercontent.com/sejal2525" width="50px;" alt="Teammate 1"/>
 </a>
 <a href="https://github.com/Siddarthsenthilkumar">
-  <img src="https://avatars.githubusercontent.com/Siddarthsenthilkumar" width="50px;" alt="Teammate 3"/>
+  <img src="https://avatars.githubusercontent.com/Siddarthsenthilkumar" width="50px;" alt="Teammate 2"/>
 </a>
 <a href="https://github.com/aishwaryaaramanathan">
-  <img src="https://avatars.githubusercontent.com/aishwaryaaramanathan" width="50px;" alt="Teammate 4"/>
+  <img src="https://avatars.githubusercontent.com/aishwaryaaramanathan" width="50px;" alt="Teammate 3"/>
 </a>
 <a href="https://github.com/haaniya-m">
-  <img src="https://avatars.githubusercontent.com/haaniya-m" width="50px;" alt="Teammate 5"/>
+  <img src="https://avatars.githubusercontent.com/haaniya-m" width="50px;" alt="Teammate 4"/>
+</a>
+<a href="https://github.com/kalakonda-rishika">
+  <img src="https://avatars.githubusercontent.com/kalakonda-rishika" width="50px;" alt="Teammate 5"/>
 </a>
